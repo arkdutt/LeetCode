@@ -32,6 +32,6 @@ class Solution:
 
         return num_islands
 
-        #Time Complexity = O(mxn)
-        #Space Complexity = O(mxn)
+        #Time Complexity = O(mxn) where m are rows and n are columns
+        #Space Complexity = O(mxn) where m are rows and n are columns
         
